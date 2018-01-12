@@ -1,4 +1,4 @@
 
 function displayResult() {
-	document.getElementById("myHeader").innerHTML = "Have a nice day!";
+	document.getElementById("myHeader").innerHTML = "See?";
 }
